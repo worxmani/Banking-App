@@ -1,0 +1,79 @@
+
+
+**Banking App Documentation**
+
+**Introduction:**
+Welcome to the Banking App documentation. This documentation provides a comprehensive overview of the features and functionality of the Banking App. It includes information on how the app works, its file structure, step-by-step usage instructions, login credentials, and contact information.
+
+**Table of Contents:**
+
+1. [Overview](#overview)
+2. [Files and Structure](#files-and-structure)
+3. [How It Works](#how-it-works)
+   - [Login](#login)
+   - [Viewing Account Details](#viewing-account-details)
+   - [Making Transactions](#making-transactions)
+   - [Closing an Account](#closing-an-account)
+4. [Login Credentials](#login-credentials)
+5. [Contact Information](#contact-information)
+
+**1. Overview:**
+The Banking App is a simple web-based application that empowers users to manage their bank accounts efficiently. It offers a user-friendly interface for performing common banking operations, including checking account balances, making deposits and withdrawals, transferring funds to other users, requesting loans, and closing accounts.
+
+**2. Files and Structure:**
+The Banking App is composed of three core files:
+
+- `index.html`: This HTML file constructs the app's structure, incorporating login forms, account details, and transaction forms.
+- `style.css`: The CSS file provides styles for the app's layout and elements.
+- `script.js`: In this JavaScript file, you'll find the app's logic and functionality, including calculations, event handling, and user interactions.
+
+**3. How It Works:**
+
+   a. **Login:** 
+   To use the Banking App:
+
+   - Enter your username (choose from: "ms," "aks," "ps," "as").
+   - Input your PIN (password) (select one from: "1111," "2222," "3333," "4444").
+   - Click the login button.
+
+   b. **Viewing Account Details:**
+   Upon successful login, you can:
+
+   - View your current account balance.
+   - Review recent transaction history.
+   - Check a summary of incoming and outgoing transactions.
+
+   c. **Making Transactions:**
+
+   - To make a deposit, enter the deposit amount and click the deposit button.
+   - For withdrawals, specify the withdrawal amount and click the withdrawal button.
+   - When transferring funds to another user:
+     - Enter the recipient's username.
+     - Input the transfer amount.
+     - Click the transfer button.
+   - If you need a loan:
+     - Enter the loan amount in the loan form.
+     - Click the loan request button.
+
+   d. **Closing an Account:**
+
+   - If you decide to close your account:
+     - Enter your username.
+     - Input your PIN.
+     - Click the close account button.
+
+**4. Login Credentials:**
+- Username: "ms" (Manish Sharma)
+  - PIN (Password): "1111"
+- Username: "aks" (Amit Sharma)
+  - PIN (Password): "2222"
+- Username: "ps" (Pratiksha Sharma)
+  - PIN (Password): "3333"
+- Username: "as" (Asha Sharma)
+  - PIN (Password): "4444"
+
+**5. Contact Information:**
+- For support, questions, or feedback regarding the Banking App, please visit [www.manishworx.com](https://www.manishworx.com).
+- You can reach out to Manish Sharma, the developer of the app, for assistance and inquiries.
+
+Thank you for choosing the Banking App as your banking solution. We trust it will streamline your financial management.
